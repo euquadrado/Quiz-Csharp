@@ -1,0 +1,83 @@
+Z:\eduardo ds1\DSquiz\DSquiz\obj\Debug\DSquiz.csprojAssemblyReference.cache
+Z:\eduardo ds1\DSquiz\DSquiz\obj\Debug\DSquiz.Form1.resources
+Z:\eduardo ds1\DSquiz\DSquiz\obj\Debug\DSquiz.Properties.Resources.resources
+Z:\eduardo ds1\DSquiz\DSquiz\obj\Debug\DSquiz.csproj.GenerateResource.cache
+Z:\eduardo ds1\DSquiz\DSquiz\obj\Debug\DSquiz.csproj.CoreCompileInputs.cache
+Z:\eduardo ds1\DSquiz\DSquiz\bin\Debug\DSquiz.exe.config
+Z:\eduardo ds1\DSquiz\DSquiz\bin\Debug\DSquiz.exe
+Z:\eduardo ds1\DSquiz\DSquiz\bin\Debug\DSquiz.pdb
+Z:\eduardo ds1\DSquiz\DSquiz\obj\Debug\DSquiz.exe
+Z:\eduardo ds1\DSquiz\DSquiz\obj\Debug\DSquiz.pdb
+Z:\eduardo ds1\DSquiz\DSquiz\obj\Debug\DSquiz.Form2.resources
+Z:\eduardo ds1\DSquiz\DSquiz\obj\Debug\DSquiz.Form3.resources
+C:\Users\Edu\Desktop\DSquiz\bin\Debug\DSquiz.exe.config
+C:\Users\Edu\Desktop\DSquiz\bin\Debug\DSquiz.exe
+C:\Users\Edu\Desktop\DSquiz\bin\Debug\DSquiz.pdb
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.csproj.AssemblyReference.cache
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Form1.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Form2.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Form3.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Properties.Resources.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.csproj.GenerateResource.cache
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.exe
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.pdb
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form4.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form10.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form11.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form12.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form13.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form5.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form6.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form7.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form8.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form9.resources
+C:\Users\Edu\Desktop\DSquiz\obj\Debug\DSquiz.Resources.Form14.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\bin\Debug\DSquiz.exe.config
+C:\Users\alunos\Desktop\DSquiz\DSquiz\bin\Debug\DSquiz.exe
+C:\Users\alunos\Desktop\DSquiz\DSquiz\bin\Debug\DSquiz.pdb
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.csprojAssemblyReference.cache
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Form1.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form10.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form11.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form12.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form13.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Form2.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Form3.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form5.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form6.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form7.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form8.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form9.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Properties.Resources.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form4.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form14.resources
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.csproj.GenerateResource.cache
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.exe
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.pdb
+C:\Users\alunos\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Form15.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\bin\Debug\DSquiz.exe.config
+C:\Users\Edu\Desktop\DSquiz\DSquiz\bin\Debug\DSquiz.exe
+C:\Users\Edu\Desktop\DSquiz\DSquiz\bin\Debug\DSquiz.pdb
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.csproj.AssemblyReference.cache
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Form1.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form10.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form11.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form12.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form13.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Form15.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Form2.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Form3.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form5.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form6.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form7.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form8.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form9.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Properties.Resources.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form4.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.Resources.Form14.resources
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.csproj.GenerateResource.cache
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.exe
+C:\Users\Edu\Desktop\DSquiz\DSquiz\obj\Debug\DSquiz.pdb
