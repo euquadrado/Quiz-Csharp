@@ -1,3 +1,3 @@
-bin/Debug/DSquiz.exe 
+DSquiz/bin/Debug/DSquiz.exe 
 
-clique em view raw para baixar e vizualizar o projeto 
+Clique em view raw para baixar e vizualizar o projeto 
